@@ -27,7 +27,8 @@ Make sure Docker is installed and running.
 
 ### 🔧 Step-by-Step Instructions
 1. **Clone or download this repo**
-2. **Open terminal in the root directory (where `docker-compose.yml` is)**
+   https://github.com/DarioAlfredo/deck-app.git
+2. **Open terminal in the root directory (where `docker-compose.yml`)**   
 3. **Run this command to build and start all containers:**
    ```bash
    docker-compose up --build
