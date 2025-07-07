@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div className="p-4 text-center">
-      <h1 className="text-2xl font-bold mb-4">Card Deck</h1>
+      <h1 className="text-2xl font-bold mb-4">Card Deck by Dario Alfredo</h1>
       <div className="flex justify-center gap-4 mb-4">
         <button onClick={handleShuffle} className="px-4 py-2 bg-blue-500 text-white rounded">Shuffle</button>
         <button onClick={handleSort} className="px-4 py-2 bg-green-500 text-white rounded">Sort</button>
